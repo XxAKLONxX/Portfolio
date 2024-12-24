@@ -13,8 +13,8 @@ const About = () => {
         <img src={Avatar2} alt="" className="about__img" />
         <div className="about__data grid">
           <div className="about__info">
-            <p className="about__description">I am Bolby Doe, web developer from London, United Kingdom.<br/> I have rich experience in web site design and building and customization, also I am good at WordPress.</p>
-            <a href="" className="btn">Download CV</a>
+            <p className="about__description">I am Ghassen Bahroun, Seo Specialist from Tunisia.<br/> I have rich experience in web site design and building and customization, also I am good at WordPress.</p>
+            <a href="/BAHROUN Ghassen CV En.docx"  download="BAHROUN Ghassen CV En.docx" className="btn">Download CV</a>
           </div>
           <div className="about__skills grid">
 
